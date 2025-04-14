@@ -1,0 +1,2 @@
+steps:
+  - command: "sh -c \"echo hello world!!\""
